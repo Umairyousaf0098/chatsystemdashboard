@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App.jsx';
 import './index.css';
 
-const YOUR_TRACKING_ID = 'G-6J656MK6WQ';
+const YOUR_TRACKING_ID = 'G-5368SCMNX8';
 
 // Function to initialize Google Analytics
 function initializeAnalytics() {
